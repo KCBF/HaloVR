@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 362841591f5c92844b2dc0780cfe156d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 3549672379030274525, guid: 025a694d6c597af4b93f16424462236e,
+      type: 3}
+  - muzzleFlash: {fileID: 3641702788127789645, guid: 71d24183623a32d4ba8556a212c65558,
+      type: 3}
+  - barrel: {instanceID: 0}
+  - magazine: {instanceID: 0}
+  - magazineAttachPoint: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - audioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
